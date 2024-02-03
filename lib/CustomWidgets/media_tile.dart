@@ -17,7 +17,7 @@
  * Copyright (c) 2021-2023, Ankit Sangwan
  */
 
-import 'package:blackhole/CustomWidgets/copy_clipboard.dart';
+import '../CustomWidgets/copy_clipboard.dart';
 import 'package:flutter/material.dart';
 
 class MediaTile extends StatelessWidget {

@@ -19,12 +19,12 @@
 
 import 'dart:async';
 
-import 'package:blackhole/CustomWidgets/bouncy_playlist_header_scroll_view.dart';
-import 'package:blackhole/CustomWidgets/copy_clipboard.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/CustomWidgets/image_card.dart';
-import 'package:blackhole/Models/song_item.dart';
-import 'package:blackhole/Models/url_image_generator.dart';
+import '../../CustomWidgets/bouncy_playlist_header_scroll_view.dart';
+import '../../CustomWidgets/copy_clipboard.dart';
+import '../../CustomWidgets/gradient_containers.dart';
+import '../../CustomWidgets/image_card.dart';
+import '../../Models/song_item.dart';
+import '../../Models/url_image_generator.dart';
 import 'package:flutter/material.dart';
 import 'package:logging/logging.dart';
 

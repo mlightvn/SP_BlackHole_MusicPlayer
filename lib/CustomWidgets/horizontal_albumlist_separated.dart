@@ -17,9 +17,9 @@
  * Copyright (c) 2021-2023, Ankit Sangwan
  */
 
-import 'package:blackhole/CustomWidgets/custom_physics.dart';
-import 'package:blackhole/CustomWidgets/image_card.dart';
-import 'package:blackhole/CustomWidgets/song_tile_trailing_menu.dart';
+import '../CustomWidgets/custom_physics.dart';
+import '../CustomWidgets/image_card.dart';
+import '../CustomWidgets/song_tile_trailing_menu.dart';
 import 'package:flutter/material.dart';
 
 class HorizontalAlbumsListSeparated extends StatelessWidget {

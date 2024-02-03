@@ -17,19 +17,19 @@
  * Copyright (c) 2021-2023, Ankit Sangwan
  */
 
-import 'package:blackhole/CustomWidgets/collage.dart';
-import 'package:blackhole/CustomWidgets/custom_physics.dart';
-import 'package:blackhole/CustomWidgets/data_search.dart';
-import 'package:blackhole/CustomWidgets/download_button.dart';
-import 'package:blackhole/CustomWidgets/empty_screen.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/CustomWidgets/image_card.dart';
-import 'package:blackhole/CustomWidgets/like_button.dart';
-import 'package:blackhole/CustomWidgets/playlist_head.dart';
-import 'package:blackhole/CustomWidgets/song_tile_trailing_menu.dart';
-import 'package:blackhole/Helpers/songs_count.dart' as songs_count;
-import 'package:blackhole/Screens/Library/show_songs.dart';
-import 'package:blackhole/Services/player_service.dart';
+import '../../CustomWidgets/collage.dart';
+import '../../CustomWidgets/custom_physics.dart';
+import '../../CustomWidgets/data_search.dart';
+import '../../CustomWidgets/download_button.dart';
+import '../../CustomWidgets/empty_screen.dart';
+import '../../CustomWidgets/gradient_containers.dart';
+import '../../CustomWidgets/image_card.dart';
+import '../../CustomWidgets/like_button.dart';
+import '../../CustomWidgets/playlist_head.dart';
+import '../../CustomWidgets/song_tile_trailing_menu.dart';
+import '../../Helpers/songs_count.dart' as songs_count;
+import '../../Screens/Library/show_songs.dart';
+import '../../Services/player_service.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';

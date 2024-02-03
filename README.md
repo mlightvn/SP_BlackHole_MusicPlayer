@@ -31,14 +31,8 @@ An Open-Source Music Player App for all your needs!
      height="90">](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
 
 ## Translations
-- [Turkish :tr:](/README.TR.md)
-- [Spanish :es:](/README.ES.md)
-- [Russian :ru:](/README.RU.md)
-- [French :fr:](/README.FR.md)
-- [Portuguese :brazil:](/README.PT.md)
+
 - [Japanese :jp:](/README.JA.md)
-- [Belarusian :belarus:](/README.BE.md)
-- [Indonesian :indonesia:](/README.ID.md)
 
 [Translate App on Weblate](https://hosted.weblate.org/projects/blackhole/translations/)
 
@@ -87,32 +81,7 @@ Check it yourself :)
 
 ## License
 
-```
-Copyright © 2021 Ankit Sangwan
-
-BlackHole is a free software licensed under GPL v3.0
-It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-```
-
-```
-Being Open Source doesn't mean you can just make a copy of the app and upload it on playstore or sell
-a closed source copy of the same.
-Read the following carefully:
-1. Any copy of a software under GPL must be under same license. So you can't upload the app on a closed source
-  app repository like PlayStore/AppStore without distributing the source code.
-2. You can't sell any copied/modified version of the app under any "non-free" license.
-   You must provide the copy with the original software or with instructions on how to obtain original software,
-   should clearly state all changes, should clearly disclose full source code, should include same license
-   and all copyrights should be retained.
-
-In simple words, You can ONLY use the source code of this app for `Open Source` Project under `GPL v3.0` or later
-with all your source code CLEARLY DISCLOSED on any code hosting platform like GitHub, with clear INSTRUCTIONS on
-how to obtain the original software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.
-Use of this software under any "non-free" license is NOT permitted.
-```
-
-See the [GNU General Public License](https://github.com/Sangwan5688/BlackHole/blob/main/LICENSE) for more details.
+Private
 
 ## Building from Source
 

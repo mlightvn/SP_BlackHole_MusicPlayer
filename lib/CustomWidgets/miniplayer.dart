@@ -18,9 +18,9 @@
  */
 
 import 'package:audio_service/audio_service.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/CustomWidgets/image_card.dart';
-import 'package:blackhole/Screens/Player/audioplayer.dart';
+import '../CustomWidgets/gradient_containers.dart';
+import '../CustomWidgets/image_card.dart';
+import '../Screens/Player/audioplayer.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/hive_flutter.dart';

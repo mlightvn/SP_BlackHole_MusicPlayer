@@ -19,8 +19,8 @@
 
 import 'dart:io';
 
-import 'package:blackhole/Models/image_quality.dart';
-import 'package:blackhole/Models/url_image_generator.dart';
+import '../Models/image_quality.dart';
+import '../Models/url_image_generator.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 

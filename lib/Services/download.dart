@@ -21,10 +21,10 @@ import 'dart:io';
 
 import 'package:audiotagger/audiotagger.dart';
 import 'package:audiotagger/models/tag.dart';
-// import 'package:blackhole/CustomWidgets/snackbar.dart';
-import 'package:blackhole/Helpers/lyrics.dart';
-import 'package:blackhole/Services/ext_storage_provider.dart';
-import 'package:blackhole/Services/youtube_services.dart';
+// import '../CustomWidgets/snackbar.dart';
+import '../Helpers/lyrics.dart';
+import '../Services/ext_storage_provider.dart';
+import '../Services/youtube_services.dart';
 // import 'package:ffmpeg_kit_flutter_audio/ffmpeg_kit.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

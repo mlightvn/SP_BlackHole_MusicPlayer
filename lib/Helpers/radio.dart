@@ -17,8 +17,8 @@
  * Copyright (c) 2021-2023, Ankit Sangwan
  */
 
-import 'package:blackhole/APIs/api.dart';
-import 'package:blackhole/Services/player_service.dart';
+import '../APIs/api.dart';
+import '../Services/player_service.dart';
 import 'package:logging/logging.dart';
 
 Future<void> createRadioItems({

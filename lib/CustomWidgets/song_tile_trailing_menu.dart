@@ -18,14 +18,14 @@
  */
 
 import 'package:audio_service/audio_service.dart';
-import 'package:blackhole/CustomWidgets/add_playlist.dart';
-import 'package:blackhole/Helpers/add_mediaitem_to_queue.dart';
-import 'package:blackhole/Helpers/mediaitem_converter.dart';
-import 'package:blackhole/Helpers/radio.dart';
-import 'package:blackhole/Screens/Common/song_list.dart';
-import 'package:blackhole/Screens/Search/albums.dart';
-import 'package:blackhole/Screens/Search/search.dart';
-import 'package:blackhole/Services/yt_music.dart';
+import '../CustomWidgets/add_playlist.dart';
+import '../Helpers/add_mediaitem_to_queue.dart';
+import '../Helpers/mediaitem_converter.dart';
+import '../Helpers/radio.dart';
+import '../Screens/Common/song_list.dart';
+import '../Screens/Search/albums.dart';
+import '../Screens/Search/search.dart';
+import '../Services/yt_music.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';

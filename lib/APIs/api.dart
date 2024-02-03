@@ -19,7 +19,7 @@
 
 import 'dart:convert';
 
-import 'package:blackhole/Helpers/format.dart';
+import '../Helpers/format.dart';
 import 'package:hive/hive.dart';
 import 'package:http/http.dart';
 import 'package:logging/logging.dart';

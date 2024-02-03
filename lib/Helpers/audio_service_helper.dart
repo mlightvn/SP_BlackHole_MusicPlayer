@@ -18,9 +18,9 @@
  */
 
 import 'package:audio_service/audio_service.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/CustomWidgets/popup.dart';
-import 'package:blackhole/Helpers/mediaitem_converter.dart';
+import './CustomWidgets/gradient_containers.dart';
+import './CustomWidgets/popup.dart';
+import './Helpers/mediaitem_converter.dart';
 import 'package:flutter/material.dart';
 
 void showSongInfo(MediaItem mediaItem, BuildContext context) {

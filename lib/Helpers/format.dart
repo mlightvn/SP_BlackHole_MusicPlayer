@@ -20,9 +20,9 @@
 import 'dart:convert';
 import 'dart:typed_data';
 
-import 'package:blackhole/APIs/api.dart';
-import 'package:blackhole/Helpers/extensions.dart';
-import 'package:blackhole/Helpers/image_resolution_modifier.dart';
+import './APIs/api.dart';
+import '../Helpers/extensions.dart';
+import '../Helpers/image_resolution_modifier.dart';
 import 'package:dart_des/dart_des.dart';
 import 'package:hive/hive.dart';
 import 'package:logging/logging.dart';

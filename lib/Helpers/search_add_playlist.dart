@@ -19,13 +19,13 @@
 
 import 'dart:convert';
 
-import 'package:blackhole/APIs/api.dart';
-import 'package:blackhole/APIs/spotify_api.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/Helpers/matcher.dart';
-import 'package:blackhole/Helpers/playlist.dart';
-import 'package:blackhole/Services/youtube_services.dart';
-import 'package:blackhole/Services/yt_music.dart';
+import '../APIs/api.dart';
+import '../APIs/spotify_api.dart';
+import '../CustomWidgets/gradient_containers.dart';
+import '../Helpers/matcher.dart';
+import '../Helpers/playlist.dart';
+import '../Services/youtube_services.dart';
+import '../Services/yt_music.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:http/http.dart';

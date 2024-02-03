@@ -23,12 +23,12 @@ import 'dart:io';
 
 import 'package:audio_service/audio_service.dart';
 import 'package:audio_session/audio_session.dart';
-import 'package:blackhole/APIs/api.dart';
-import 'package:blackhole/Helpers/mediaitem_converter.dart';
-import 'package:blackhole/Helpers/playlist.dart';
-import 'package:blackhole/Screens/Player/audioplayer.dart';
-import 'package:blackhole/Services/isolate_service.dart';
-import 'package:blackhole/Services/yt_music.dart';
+import '../APIs/api.dart';
+import '../Helpers/mediaitem_converter.dart';
+import '../Helpers/playlist.dart';
+import '../Screens/Player/audioplayer.dart';
+import '../Services/isolate_service.dart';
+import '../Services/yt_music.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/services.dart';
 import 'package:hive/hive.dart';

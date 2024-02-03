@@ -19,10 +19,10 @@
 
 import 'dart:io';
 
-import 'package:blackhole/CustomWidgets/drawer.dart';
-import 'package:blackhole/Screens/Library/liked.dart';
-import 'package:blackhole/Screens/LocalMusic/downed_songs.dart';
-import 'package:blackhole/Screens/LocalMusic/downed_songs_desktop.dart';
+import '../../CustomWidgets/drawer.dart';
+import '../../Screens/Library/liked.dart';
+import '../../Screens/LocalMusic/downed_songs.dart';
+import '../../Screens/LocalMusic/downed_songs_desktop.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';

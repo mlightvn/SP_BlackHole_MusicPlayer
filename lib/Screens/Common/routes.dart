@@ -17,16 +17,16 @@
  * Copyright (c) 2021-2023, Ankit Sangwan
  */
 
-import 'package:blackhole/Screens/About/about.dart';
-import 'package:blackhole/Screens/Home/home.dart';
-import 'package:blackhole/Screens/Library/downloads.dart';
-import 'package:blackhole/Screens/Library/nowplaying.dart';
-import 'package:blackhole/Screens/Library/playlists.dart';
-import 'package:blackhole/Screens/Library/recent.dart';
-import 'package:blackhole/Screens/Library/stats.dart';
-import 'package:blackhole/Screens/Login/auth.dart';
-import 'package:blackhole/Screens/Login/pref.dart';
-import 'package:blackhole/Screens/Settings/new_settings_page.dart';
+import '../../Screens/About/about.dart';
+import '../../Screens/Home/home.dart';
+import '../../Screens/Library/downloads.dart';
+import '../../Screens/Library/nowplaying.dart';
+import '../../Screens/Library/playlists.dart';
+import '../../Screens/Library/recent.dart';
+import '../../Screens/Library/stats.dart';
+import '../../Screens/Login/auth.dart';
+import '../../Screens/Login/pref.dart';
+import '../../Screens/Settings/new_settings_page.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 

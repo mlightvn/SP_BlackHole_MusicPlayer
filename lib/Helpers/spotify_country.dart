@@ -17,9 +17,9 @@
  * Copyright (c) 2021-2023, Ankit Sangwan
  */
 
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/Screens/Top Charts/top.dart' as top_screen;
-import 'package:blackhole/constants/countrycodes.dart';
+import '../CustomWidgets/gradient_containers.dart';
+import '../Screens/Top Charts/top.dart' as top_screen;
+import '../constants/countrycodes.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 

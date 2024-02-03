@@ -20,7 +20,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:blackhole/Services/yt_music.dart';
+import '../Services/yt_music.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:html_unescape/html_unescape_small.dart';
 import 'package:http/http.dart';

@@ -19,19 +19,19 @@
 
 import 'dart:async';
 
-import 'package:blackhole/APIs/api.dart';
-import 'package:blackhole/CustomWidgets/bouncy_playlist_header_scroll_view.dart';
-import 'package:blackhole/CustomWidgets/copy_clipboard.dart';
-import 'package:blackhole/CustomWidgets/download_button.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/CustomWidgets/image_card.dart';
-import 'package:blackhole/CustomWidgets/like_button.dart';
-import 'package:blackhole/CustomWidgets/playlist_popupmenu.dart';
-import 'package:blackhole/CustomWidgets/snackbar.dart';
-import 'package:blackhole/CustomWidgets/song_tile_trailing_menu.dart';
-import 'package:blackhole/Helpers/extensions.dart';
-import 'package:blackhole/Models/url_image_generator.dart';
-import 'package:blackhole/Services/player_service.dart';
+import '../../APIs/api.dart';
+import '../../CustomWidgets/bouncy_playlist_header_scroll_view.dart';
+import '../../CustomWidgets/copy_clipboard.dart';
+import '../../CustomWidgets/download_button.dart';
+import '../../CustomWidgets/gradient_containers.dart';
+import '../../CustomWidgets/image_card.dart';
+import '../../CustomWidgets/like_button.dart';
+import '../../CustomWidgets/playlist_popupmenu.dart';
+import '../../CustomWidgets/snackbar.dart';
+import '../../CustomWidgets/song_tile_trailing_menu.dart';
+import '../../Helpers/extensions.dart';
+import '../../Models/url_image_generator.dart';
+import '../../Services/player_service.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:logging/logging.dart';

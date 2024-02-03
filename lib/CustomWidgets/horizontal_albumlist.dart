@@ -17,14 +17,14 @@
  * Copyright (c) 2021-2023, Ankit Sangwan
  */
 
-import 'package:blackhole/APIs/api.dart';
-import 'package:blackhole/CustomWidgets/image_card.dart';
-import 'package:blackhole/CustomWidgets/like_button.dart';
-import 'package:blackhole/CustomWidgets/on_hover.dart';
-import 'package:blackhole/CustomWidgets/snackbar.dart';
-import 'package:blackhole/CustomWidgets/song_tile_trailing_menu.dart';
-import 'package:blackhole/Models/image_quality.dart';
-import 'package:blackhole/Services/player_service.dart';
+import '../APIs/api.dart';
+import '../CustomWidgets/image_card.dart';
+import '../CustomWidgets/like_button.dart';
+import '../CustomWidgets/on_hover.dart';
+import '../CustomWidgets/snackbar.dart';
+import '../CustomWidgets/song_tile_trailing_menu.dart';
+import '../Models/image_quality.dart';
+import '../Services/player_service.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 

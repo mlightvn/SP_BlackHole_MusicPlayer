@@ -32,14 +32,7 @@
 
 ## 翻訳
 
-- [Turkish :tr:](/README.TR.md)
 - [English :uk:](/README.md)
-- [Spanish :es:](/README.ES.md)
-- [Russian :ru:](/README.RU.md)
-- [French :fr:](/README.FR.md)
-- [Portuguese :brazil:](/README.PT.md)
-- [Belarusian :belarus:](/README.BE.md)
-- [Indonesian :indonesia:](/README.ID.md)
 
 [Weblateでアプリを翻訳](https://hosted.weblate.org/projects/blackhole/translations/)
 

@@ -21,9 +21,9 @@ import 'dart:convert';
 
 import 'package:audiotagger/audiotagger.dart';
 import 'package:audiotagger/models/tag.dart';
-import 'package:blackhole/APIs/spotify_api.dart';
-import 'package:blackhole/Helpers/matcher.dart';
-import 'package:blackhole/Helpers/spotify_helper.dart';
+import '../APIs/spotify_api.dart';
+import '../Helpers/matcher.dart';
+import '../Helpers/spotify_helper.dart';
 import 'package:http/http.dart';
 import 'package:logging/logging.dart';
 

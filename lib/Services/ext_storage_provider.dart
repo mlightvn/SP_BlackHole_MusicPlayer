@@ -51,7 +51,7 @@ class ExtStorageProvider {
           directory = await getExternalStorageDirectory();
 
           // getting main path
-          final String newPath = directory!.path
+          final String newPath = directory.path
               .replaceFirst('Android/data/com.shadow.blackhole/files', dirName);
 
           directory = Directory(newPath);
@@ -84,7 +84,7 @@ class ExtStorageProvider {
         return '${directory.path}/$finalDirName';
       } else {
         directory = await getDownloadsDirectory();
-        return '${directory!.path}/$dirName';
+        return '${directory.path}/$dirName';
       }
     } catch (e) {
       rethrow;

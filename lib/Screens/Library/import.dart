@@ -18,15 +18,15 @@
  */
 
 import 'package:app_links/app_links.dart';
-import 'package:blackhole/APIs/spotify_api.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/CustomWidgets/image_card.dart';
-import 'package:blackhole/CustomWidgets/snackbar.dart';
-import 'package:blackhole/CustomWidgets/textinput_dialog.dart';
-import 'package:blackhole/Helpers/import_export_playlist.dart';
-import 'package:blackhole/Helpers/playlist.dart';
-import 'package:blackhole/Helpers/search_add_playlist.dart';
-import 'package:blackhole/Helpers/spotify_helper.dart';
+import '../../APIs/spotify_api.dart';
+import '../../CustomWidgets/gradient_containers.dart';
+import '../../CustomWidgets/image_card.dart';
+import '../../CustomWidgets/snackbar.dart';
+import '../../CustomWidgets/textinput_dialog.dart';
+import '../../Helpers/import_export_playlist.dart';
+import '../../Helpers/playlist.dart';
+import '../../Helpers/search_add_playlist.dart';
+import '../../Helpers/spotify_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:hive_flutter/hive_flutter.dart';

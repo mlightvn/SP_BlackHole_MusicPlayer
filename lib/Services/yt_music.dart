@@ -19,10 +19,10 @@
 
 import 'dart:convert';
 
-import 'package:blackhole/Models/song_item.dart';
-import 'package:blackhole/Services/youtube_services.dart';
-import 'package:blackhole/Services/ytmusic/nav.dart';
-import 'package:blackhole/Services/ytmusic/playlist.dart';
+import '../Models/song_item.dart';
+import '../Services/youtube_services.dart';
+import '../Services/ytmusic/nav.dart';
+import '../Services/ytmusic/playlist.dart';
 import 'package:http/http.dart';
 import 'package:logging/logging.dart';
 
